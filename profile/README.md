@@ -4,4 +4,4 @@ CivMC Map Archive is an organization created by KingColton1 (IGN: CapianColton /
 
 We also archive and display every alliance chart made by VilyanZ for similar reasons.
 
-Currently this is one-man project so do not expect for this to be updated as soon as TheJmqn's claim map or VilyanZ's alliance chart released.
+Currently this is one-man project so do not expect for this to be updated as soon as TheJmqn's claim map or VilyanZ's alliance chart released. If you have questions, please contact @CapColton on Discord.
